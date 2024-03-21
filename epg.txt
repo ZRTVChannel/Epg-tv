@@ -1,0 +1,13 @@
+epg bevy software
+
+indonesia.xml
+https://www.bevy.be/bevyfiles/indonesia.xml
+
+indonesiapremium1.xml
+https://www.bevy.be/bevyfiles/indonesiapremium1.xml
+
+indonesiapremium3.xml
+https://www.bevy.be/bevyfiles/indonesiapremium3.xml
+
+singaporepremium.xml
+https://www.bevy.be/bevyfiles/singaporepremium.xml
